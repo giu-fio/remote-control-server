@@ -1,4 +1,4 @@
-# remote-control-client
+# remote-control-server
 
 Programmazione	di	sistema 
 ---------------------------
