@@ -1,0 +1,14 @@
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\bin\Release\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\bin\Release\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\bin\Release\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\requestPassword.baml
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\App.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Release\ServerWPF.pdb

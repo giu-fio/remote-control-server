@@ -1,0 +1,617 @@
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Manuel\Desktop\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\FinestraHotkey\ProvaWPF\FinestraWPF\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\polito\programmazione di sistema\malnati\Progetto\Workspace\ServerWPF\bin\Debug\ServerWPF.pdb
+\\VBOXSVR\Condiviso_Virtualbox\ServerWPF\bin\Debug\ServerWPF.exe.config
+\\VBOXSVR\Condiviso_Virtualbox\ServerWPF\obj\Debug\ServerWPF.exe
+\\VBOXSVR\Condiviso_Virtualbox\ServerWPF\obj\Debug\ServerWPF.pdb
+E:\ServerWPF\bin\Debug\ServerWPF.exe.config
+E:\ServerWPF\obj\Debug\ServerWPF.exe
+E:\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 26_4\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\Versione 01_05_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 01_05_2015_MIGUEL\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 01_05_2015_MIGUEL\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\Final Version7\Versione 01_05_2015_MIGUEL\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\manuel.pettinato\Desktop\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\manuel.pettinato\Desktop\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\manuel.pettinato\Desktop\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\App.g.cs
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\manuel.pettinato\Desktop\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\LAST VERSION 10_05_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\MERGE VERSION_03_05_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\LAST_VERSION_MIGUEL_17_05_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 07_06_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\PROGETTO(solo io)\VERSION 14_06_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\VERSION 21_06_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\VERSION 21_06_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 02_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\VERSION 03_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\Versione 04_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\VERSION 04_07_2015 (Miguel)\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\VERSION 05_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\VERSION 12_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION PEPPE\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\VERSION MIGUEL 19_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\VERSION PEPPE 24_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\VERSION PEPPE 25_07_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Versione PRE ESTATE\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Dropbox\Coppa\LAST VERSIONE LUGLIOOOOOOO\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\Versione 21_09_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 23_09_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 24_09_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 24_09_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 24_09_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Coppa\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Versione 03_10_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Giuseppe\Dropbox\Condivisa_Manuel_Peppe\Versione 18_10_2015\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\requestPassword.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\StatusWindow.baml
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\requestPassword.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\StatusWindow.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\Miguel\Dropbox\Malnati-Peppe\PROGETTO FINALE\ServerWPF\obj\Debug\ServerWPF.pdb
